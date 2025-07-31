@@ -6,7 +6,7 @@ export default function Post5() {
           <div className="text">
             <h2>Building a Personal Brand as a Developer in 2025</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>August 25, 2025</time>
             </div>
             <p className="summary">

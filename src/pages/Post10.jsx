@@ -6,7 +6,7 @@ export default function Post10() {
           <div className="text">
             <h2>Designing UI Components That Developers Love</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>September 15, 2025</time>
             </div>
             <p className="summary">

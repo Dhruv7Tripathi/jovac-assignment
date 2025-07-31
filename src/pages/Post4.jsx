@@ -6,7 +6,7 @@ export default function Post4() {
           <div className="text">
             <h2>Next.js in 2025: New Features You Need to Know</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>August 20, 2025</time>
             </div>
             <p className="summary">

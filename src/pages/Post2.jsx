@@ -6,7 +6,7 @@ export default function Post2() {
           <div className="text">
             <h2>Master Tailwind CSS: Build Stunning Websites Fast</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>July 5, 2025</time>
             </div>
             <p className="summary">

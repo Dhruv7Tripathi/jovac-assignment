@@ -6,7 +6,7 @@ export default function Post8() {
           <div className="text">
             <h2>How to Contribute to Open Source in 2025 (Beginner’s Guide)</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>September 5, 2025</time>
             </div>
             <p className="summary">

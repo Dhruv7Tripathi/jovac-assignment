@@ -6,7 +6,7 @@ export default function Post6() {
           <div className="text">
             <h2>Web Performance Optimization Techniques for 2025</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>August 28, 2025</time>
             </div>
             <p className="summary">

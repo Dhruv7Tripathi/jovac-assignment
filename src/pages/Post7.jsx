@@ -6,7 +6,7 @@ export default function Post7() {
           <div className="text">
             <h2>Framer Motion Mastery: Animate Your React Apps Like a Pro</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>September 1, 2025</time>
             </div>
             <p className="summary">

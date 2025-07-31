@@ -6,7 +6,7 @@ export default function Post3() {
           <div className="text">
             <h2>The Rise of AI Tools for Developers in 2025</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>August 15, 2025</time>
             </div>
             <p className="summary">

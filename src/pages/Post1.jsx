@@ -6,7 +6,7 @@ export default function Post1() {
           <div className="text">
             <h2>JavaScript Trends 2025: What Developers Should Focus On</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>July 12, 2025</time>
             </div>
             <p className="summary">

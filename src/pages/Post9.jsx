@@ -6,7 +6,7 @@ export default function Post9() {
           <div className="text">
             <h2>Building SaaS Products as a Solo Developer in 2025</h2>
             <div className="info">
-              <span className="author">Aman Shakya</span>
+              <span className="author">Dhruv Tripathi</span>
               <time>September 10, 2025</time>
             </div>
             <p className="summary">
